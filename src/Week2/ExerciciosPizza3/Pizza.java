@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class Pizza {
 
-    public static HashMap<String, Integer> ingredientes = new HashMap<>();;
+    public static HashMap<String, Integer> ingredientes = new HashMap<>();
 
     private int qtdeIngredientes;
 
